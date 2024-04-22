@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuviCoding/Basics/Basics.iml" filepath="$PROJECT_DIR$/GuviCoding/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSClassesandObjects/CarpetCostCalc/CarpetCostCalc.iml" filepath="$PROJECT_DIR$/OOPSClassesandObjects/CarpetCostCalc/CarpetCostCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExcercise/CodingExcercise.iml" filepath="$PROJECT_DIR$/CodingExcercise/CodingExcercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_SearchinAlgo/DSA_SearchinAlgo.iml" filepath="$PROJECT_DIR$/DSA_SearchinAlgo/DSA_SearchinAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task/Day13/Day13.iml" filepath="$PROJECT_DIR$/Task/Day13/Day13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileOperations/FileOperations.iml" filepath="$PROJECT_DIR$/FileOperations/FileOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filght booking/Filght booking.iml" filepath="$PROJECT_DIR$/Filght booking/Filght booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gener/Gener.iml" filepath="$PROJECT_DIR$/Gener/Gener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuviCoding/GuviCoding.iml" filepath="$PROJECT_DIR$/GuviCoding/GuviCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloCode/HelloCode.iml" filepath="$PROJECT_DIR$/HelloCode/HelloCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSInheritense/Inheritance2/Inheritance2.iml" filepath="$PROJECT_DIR$/OOPSInheritense/Inheritance2/Inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuviCoding/LinkedLis/LinkedLis.iml" filepath="$PROJECT_DIR$/GuviCoding/LinkedLis/LinkedLis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/List/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloCode/Loops/Loops1.iml" filepath="$PROJECT_DIR$/HelloCode/Loops/Loops1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MasterOops/MasterOops.iml" filepath="$PROJECT_DIR$/MasterOops/MasterOops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSClassesandObjects/OOPSClassesandObjects.iml" filepath="$PROJECT_DIR$/OOPSClassesandObjects/OOPSClassesandObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPSInheritense/OOPSInheritense.iml" filepath="$PROJECT_DIR$/OOPSInheritense/OOPSInheritense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops/Oops.iml" filepath="$PROJECT_DIR$/Oops/Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poly/Poly.iml" filepath="$PROJECT_DIR$/Poly/Poly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scratch/Scratch.iml" filepath="$PROJECT_DIR$/Scratch/Scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuviCoding/String/String.iml" filepath="$PROJECT_DIR$/GuviCoding/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task/Task.iml" filepath="$PROJECT_DIR$/Task/Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingExcercise/compositio/compositio.iml" filepath="$PROJECT_DIR$/CodingExcercise/compositio/compositio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composition/composition.iml" filepath="$PROJECT_DIR$/composition/composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
+    </modules>
+  </component>
+</project>

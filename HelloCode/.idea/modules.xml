@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Arrays/Arrays.iml" filepath="$PROJECT_DIR$/../Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOPSClassesandObjects/CarpetCostCalc/CarpetCostCalc.iml" filepath="$PROJECT_DIR$/../OOPSClassesandObjects/CarpetCostCalc/CarpetCostCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CodingExcercise/CodingExcercise.iml" filepath="$PROJECT_DIR$/../CodingExcercise/CodingExcercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Filght booking/Filght booking.iml" filepath="$PROJECT_DIR$/../Filght booking/Filght booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloCode.iml" filepath="$PROJECT_DIR$/HelloCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOPSInheritense/Inheritance2/Inheritance2.iml" filepath="$PROJECT_DIR$/../OOPSInheritense/Inheritance2/Inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MasterOops/MasterOops.iml" filepath="$PROJECT_DIR$/../MasterOops/MasterOops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOPSClassesandObjects/OOPSClassesandObjects.iml" filepath="$PROJECT_DIR$/../OOPSClassesandObjects/OOPSClassesandObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOPSInheritense/OOPSInheritense.iml" filepath="$PROJECT_DIR$/../OOPSInheritense/OOPSInheritense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oops/Oops.iml" filepath="$PROJECT_DIR$/../Oops/Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Poly/Poly.iml" filepath="$PROJECT_DIR$/../Poly/Poly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scanner/Scanner.iml" filepath="$PROJECT_DIR$/../Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scratch/Scratch.iml" filepath="$PROJECT_DIR$/../Scratch/Scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CodingExcercise/compositio/compositio.iml" filepath="$PROJECT_DIR$/../CodingExcercise/compositio/compositio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../composition/composition.iml" filepath="$PROJECT_DIR$/../composition/composition.iml" />
+    </modules>
+  </component>
+</project>
